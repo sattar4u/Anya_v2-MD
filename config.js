@@ -71,7 +71,7 @@ module.exports = {
   prefa: process.env.Prefix || [','],
   themeemoji: process.env.ThemeEmoji || "🎐",
   ownername: process.env.Owner_Name || "anonymous",
-  ownernumber: process.env.Owner_Number || "923394048844",
+  ownernumber: process.env.Owner_Number || "447441442535",
   instagramId: process.env.Insta || " ",
   warns: process.env.Warns_Limits || 3,
   mongoUrl: process.env.MongoDB || "mongodb+srv://rush:20041025sa@cluster0.ysi6dsf.mongodb.net/",
@@ -113,7 +113,7 @@ global.footer = process.env.Footer || "© Queen Luna Bot"
 global.prefa = process.env.Prefix || ['.'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
 global.ownername = process.env.Owner_Name || "anonymous" 
-global.ownernumber = process.env.Owner_Number || "923394048844" 
+global.ownernumber = process.env.Owner_Number || "447441442535" 
 global.adress = process.env.Continent || "Asia, Pakistan, Sindh" 
 global.timezone = process.env.TimeZone || "Asia/Karachi" 
 global.instagramId = process.env.Insta || " " 
